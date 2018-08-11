@@ -1,2 +1,2 @@
 # Hello-world
-test repo first time
+test repo, experiancing git for the first time... please ignore the disturbance.
